@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Patterns.Singleton\bin\Debug\net8.0\Patterns.Singleton.deps.json
+C:\Users\Usuario\source\repos\Patterns.Singleton\bin\Debug\net8.0\Patterns.Singleton.dll
+C:\Users\Usuario\source\repos\Patterns.Singleton\bin\Debug\net8.0\Patterns.Singleton.pdb
+C:\Users\Usuario\source\repos\Patterns.Singleton\obj\Debug\net8.0\Patterns.Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Patterns.Singleton\obj\Debug\net8.0\Patterns.Singleton.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Patterns.Singleton\obj\Debug\net8.0\Patterns.Singleton.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Patterns.Singleton\obj\Debug\net8.0\Patterns.Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Patterns.Singleton\obj\Debug\net8.0\Patterns.Singleton.dll
+C:\Users\Usuario\source\repos\Patterns.Singleton\obj\Debug\net8.0\refint\Patterns.Singleton.dll
+C:\Users\Usuario\source\repos\Patterns.Singleton\obj\Debug\net8.0\Patterns.Singleton.pdb
+C:\Users\Usuario\source\repos\Patterns.Singleton\obj\Debug\net8.0\ref\Patterns.Singleton.dll

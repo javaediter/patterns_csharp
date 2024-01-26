@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Patterns\bin\Debug\net8.0\Patterns.deps.json
+C:\Users\Usuario\source\repos\Patterns\bin\Debug\net8.0\Patterns.dll
+C:\Users\Usuario\source\repos\Patterns\bin\Debug\net8.0\Patterns.pdb
+C:\Users\Usuario\source\repos\Patterns\obj\Debug\net8.0\Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Patterns\obj\Debug\net8.0\Patterns.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Patterns\obj\Debug\net8.0\Patterns.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Patterns\obj\Debug\net8.0\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Patterns\obj\Debug\net8.0\Patterns.dll
+C:\Users\Usuario\source\repos\Patterns\obj\Debug\net8.0\refint\Patterns.dll
+C:\Users\Usuario\source\repos\Patterns\obj\Debug\net8.0\Patterns.pdb
+C:\Users\Usuario\source\repos\Patterns\obj\Debug\net8.0\ref\Patterns.dll

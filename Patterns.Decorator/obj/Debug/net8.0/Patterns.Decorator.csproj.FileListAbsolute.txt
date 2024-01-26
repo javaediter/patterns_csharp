@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Patterns.Decorator\bin\Debug\net8.0\Patterns.Decorator.deps.json
+C:\Users\Usuario\source\repos\Patterns.Decorator\bin\Debug\net8.0\Patterns.Decorator.dll
+C:\Users\Usuario\source\repos\Patterns.Decorator\bin\Debug\net8.0\Patterns.Decorator.pdb
+C:\Users\Usuario\source\repos\Patterns.Decorator\obj\Debug\net8.0\Patterns.Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Patterns.Decorator\obj\Debug\net8.0\Patterns.Decorator.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Patterns.Decorator\obj\Debug\net8.0\Patterns.Decorator.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Patterns.Decorator\obj\Debug\net8.0\Patterns.Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Patterns.Decorator\obj\Debug\net8.0\Patterns.Decorator.dll
+C:\Users\Usuario\source\repos\Patterns.Decorator\obj\Debug\net8.0\refint\Patterns.Decorator.dll
+C:\Users\Usuario\source\repos\Patterns.Decorator\obj\Debug\net8.0\Patterns.Decorator.pdb
+C:\Users\Usuario\source\repos\Patterns.Decorator\obj\Debug\net8.0\ref\Patterns.Decorator.dll

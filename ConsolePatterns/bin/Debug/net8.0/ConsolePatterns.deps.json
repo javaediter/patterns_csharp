@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsolePatterns/1.0.0": {
+        "dependencies": {
+          "Patterns.Decorator": "1.0.0",
+          "Patterns.Factory": "1.0.0",
+          "Patterns.Singleton": "1.0.0",
+          "Patterns.Strategy": "1.0.0"
+        },
+        "runtime": {
+          "ConsolePatterns.dll": {}
+        }
+      },
+      "Patterns.Decorator/1.0.0": {
+        "runtime": {
+          "Patterns.Decorator.dll": {}
+        }
+      },
+      "Patterns.Factory/1.0.0": {
+        "runtime": {
+          "Patterns.Factory.dll": {}
+        }
+      },
+      "Patterns.Singleton/1.0.0": {
+        "runtime": {
+          "Patterns.Singleton.dll": {}
+        }
+      },
+      "Patterns.Strategy/1.0.0": {
+        "runtime": {
+          "Patterns.Strategy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolePatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Patterns.Decorator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Patterns.Factory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Patterns.Singleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Patterns.Strategy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

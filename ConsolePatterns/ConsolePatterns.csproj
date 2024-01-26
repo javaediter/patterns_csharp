@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Patterns.Decorator\Patterns.Decorator.csproj" />
+    <ProjectReference Include="..\Patterns.Factory\Patterns.Factory.csproj" />
+    <ProjectReference Include="..\Patterns.Singleton\Patterns.Singleton.csproj" />
+    <ProjectReference Include="..\Patterns\Patterns.Strategy.csproj" />
+  </ItemGroup>
+
+</Project>

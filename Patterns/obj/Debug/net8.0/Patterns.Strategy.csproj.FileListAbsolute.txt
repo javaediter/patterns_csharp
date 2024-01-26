@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Patterns\bin\Debug\net8.0\Patterns.Strategy.deps.json
+C:\Users\Usuario\source\repos\Patterns\bin\Debug\net8.0\Patterns.Strategy.dll
+C:\Users\Usuario\source\repos\Patterns\bin\Debug\net8.0\Patterns.Strategy.pdb
+C:\Users\Usuario\source\repos\Patterns\obj\Debug\net8.0\Patterns.Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Patterns\obj\Debug\net8.0\Patterns.Strategy.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Patterns\obj\Debug\net8.0\Patterns.Strategy.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Patterns\obj\Debug\net8.0\Patterns.Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Patterns\obj\Debug\net8.0\Patterns.Strategy.dll
+C:\Users\Usuario\source\repos\Patterns\obj\Debug\net8.0\refint\Patterns.Strategy.dll
+C:\Users\Usuario\source\repos\Patterns\obj\Debug\net8.0\Patterns.Strategy.pdb
+C:\Users\Usuario\source\repos\Patterns\obj\Debug\net8.0\ref\Patterns.Strategy.dll
